@@ -10,6 +10,9 @@ Welcome to my GitHub profile! I'm a passionate Full Stack QA Engineer with inter
 - 📫 How to reach me: [Email](mailto:pradapjackie@gmail.com)
 - ⚡ Fun fact: I love driving motorbikes and cars. I love to play a lot of sports.
 
+[![Pradap's GitHub stats](https://github-readme-stats.vercel.app/api?username=pradapjackie)](https://github.com/pradapjackie/github-readme-stats)
+
+
 ## Profiles
 
 [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white)](https://pradappandiyan.medium.com/)
