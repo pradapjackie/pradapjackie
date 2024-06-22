@@ -11,8 +11,8 @@ Welcome to my GitHub profile! I'm a passionate Full Stack QA Engineer with inter
 - ⚡ Fun fact: I love driving motorbikes and cars. I love to play a lot of sports.
 
 ## Statistics
-[![Pradap's GitHub stats](https://github-readme-stats.vercel.app/api?username=pradapjackie&theme=dark&show_icons=true)](https://github.com/pradapjackie/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pradapjackie&layout=pie)](https://github.com/pradapjackie/github-readme-stats)
+[![Pradap's GitHub stats](https://github-readme-stats.vercel.app/api?username=pradapjackie&theme=dark&show_icons=true)](https://github.com/pradapjackie/github-readme-stats)
 
 
 
