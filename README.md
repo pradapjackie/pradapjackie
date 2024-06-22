@@ -12,6 +12,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack QA Engineer with inter
 
 ## Statistics
 [![Pradap's GitHub stats](https://github-readme-stats.vercel.app/api?username=pradapjackie&theme=dark&show_icons=true)](https://github.com/pradapjackie/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pradapjackie&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pradapjackie)
 
 
