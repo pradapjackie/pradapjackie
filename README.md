@@ -4,30 +4,24 @@ Welcome to my GitHub profile! I'm a passionate Full Stack QA Engineer with inter
 
 ## About Me
 
-- 🌱 I’m currently learning Flutter and advanced web development.
+- 🌱 I’m currently learning Flutter development and advanced AI.
 - 👯 I’m looking to collaborate on open-source projects.
-- 💬 Ask me about anything related to programming, I am happy to help.
+- 💬 Ask me about anything related to automation testing, I am happy to help.
 - 📫 How to reach me: [Email](mailto:pradapjackie@gmail.com)
-- ⚡ Fun fact: I love playing chess and solving puzzles.
+- ⚡ Fun fact: I love driving motorbikes and cars. I love to play a lot of sports.
 
-## Medium Profile
+## Profiles
 
-You can find my articles and contributions on my [Medium](https://pradappandiyan.medium.com/)
-
-## GitLab Profile
-
-You can find my projects and contributions on my [GitLab profile](https://gitlab.com/pradapjackie).
-
-## Bitbucket Profile
-
-You can find my projects and contributions on my [Bitbucket profile](https://bitbucket.org/pradapjackie/).
-
-## Github Profile
-
-You can find my projects and contributions on my [Github profile](https://github.com/pradapjackie).
+[![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white)](https://pradappandiyan.medium.com/)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/pradapjackie)
+[![Bitbucket](https://img.shields.io/badge/Bitbucket-blue?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/pradapjackie/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pradapjackie)
 
 
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradap-pandiyan/)
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/pradapjackie)
+[![YouTube MotorBike ](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@tamilbiker)
+[![YouTube Car Reviews ](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TamilCarDudes)
+
