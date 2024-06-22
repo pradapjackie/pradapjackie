@@ -9,8 +9,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack QA Engineer with inter
 - 💬 Ask me about anything related to automation testing, I am happy to help.
 - 📫 How to reach me: [Email](mailto:pradapjackie@gmail.com)
 - ⚡ Fun fact: I love driving motorbikes and cars. I love to play a lot of sports.
-- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pradapjackie&hide_progress=true&compact=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pradapjackie&hide_progress=true)
 [![Pradap's GitHub stats](https://github-readme-stats.vercel.app/api?username=pradapjackie&theme=dark&show_icons=true)](https://github.com/pradapjackie/github-readme-stats)
 
 
