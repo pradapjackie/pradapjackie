@@ -1,8 +1,6 @@
-# Hi there, I'm Pradeep!
+# Hi there, I'm Pradap! [Full Stack Automation QA Lead]
 
 Welcome to my GitHub profile! I'm a passionate Full Stack QA Engineer with interests in test automation, app development, and tech learnings.
-
-![Profile views](https://github.com/pradapjackie)
 
 ## About Me
 
@@ -14,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack QA Engineer with inter
 
 ## Medium Profile
 
-![Medium](https://pradappandiyan.medium.com/)
+You can find my articles and contributions on my [Medium](https://pradappandiyan.medium.com/)
 
 ## GitLab Profile
 
