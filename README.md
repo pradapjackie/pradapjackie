@@ -12,6 +12,10 @@ Welcome to my GitHub profile! I'm a passionate Full Stack QA Engineer with inter
 - 📫 How to reach me: [Email](mailto:pradapjackie@gmail.com)
 - ⚡ Fun fact: I love playing chess and solving puzzles.
 
+## Medium Profile
+
+![Medium](https://pradappandiyan.medium.com/)
+
 ## GitLab Profile
 
 You can find my projects and contributions on my [GitLab profile](https://gitlab.com/pradapjackie).
@@ -24,9 +28,6 @@ You can find my projects and contributions on my [Bitbucket profile](https://bit
 
 You can find my projects and contributions on my [Github profile](https://github.com/pradapjackie).
 
-## Medium Profile
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ## Connect with Me
 
